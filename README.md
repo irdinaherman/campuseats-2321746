@@ -129,13 +129,13 @@ campuseats/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/irdinaherman/campuseats--2321746-.git
+git clone https://github.com/irdinaherman/campuseats-2321746.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd campuseats--2321746-
+cd campuseats-2321746
 ```
 
 ### 3. Install dependencies
@@ -185,7 +185,7 @@ AI tools were used as development assistance during the project. Further details
 
 ## Repository
 
-**GitHub:** https://github.com/irdinaherman/campuseats--2321746-.git
+**GitHub:** https://github.com/irdinaherman/campuseats-2321746
 
 **Branch:** `main`
 
